@@ -13,3 +13,7 @@ winget install python.python.3.12
 git clone https://github.com/wbthomason/packer.nvim "$env:LOCALAPPDATA\nvim-data\site\pack\packer\start\packer.nvim"
 
 pip install pynvim
+
+pip3 install neovim
+
+pip3 install pillow

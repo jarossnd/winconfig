@@ -10,6 +10,6 @@ $env:Path = [System.Environment]::GetEnvironmentVariable("Path","Machine") + ";"
 
 winget install python.python.3.12
 
-git clone https://github.com/wbthomason/packer.nvim "C:\Users\%USERNAME%\AppData\Local\nvim-data\site\pack\packer\start\packer.nvim"
+git clone https://github.com/wbthomason/packer.nvim %LOCALAPPDATA%\nvim-data\site\pack\packer\start\packer.nvim
 
 pip install pynvim

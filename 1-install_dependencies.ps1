@@ -20,3 +20,6 @@ pip3 install pillow
 
 # A dependency for Telescope to use regex search
 winget install BurntSushi.ripgrep.MSVC
+
+# A dependency for Telescope that searches the current directory for a regex pattern
+winget install sharkdp.fd

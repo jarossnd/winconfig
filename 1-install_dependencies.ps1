@@ -17,3 +17,6 @@ pip install pynvim
 pip3 install neovim
 
 pip3 install pillow
+
+# A dependency for Telescope to use regex search
+winget install BurntSushi.ripgrep.MSVC

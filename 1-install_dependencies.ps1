@@ -17,3 +17,12 @@ pip install pynvim
 pip3 install neovim
 
 pip3 install pillow
+
+# A dependency for Telescope to use regex search
+winget install BurntSushi.ripgrep.MSVC
+
+# A dependency for Telescope that searches the current directory for a regex pattern
+winget install sharkdp.fd
+
+# A dependency for telescope-media-files.nvim to view image files in file preview
+winget install hpjansson.Chafa

@@ -17,6 +17,10 @@ mklink "C:\Users\%USERNAME%\AppData\Local\nvim\init.lua" "C:\Users\%USERNAME%\re
 
 mklink "C:\Users\%USERNAME%\AppData\Local\nvim\after\plugin\colors.lua" "C:\Users\%USERNAME%\repos\winconfig\nvim\after\plugin\colors.lua"
 
+mklink "C:\Users\%USERNAME%\AppData\Local\nvim\after\plugin\barbar.lua" "C:\Users\%USERNAME%\repos\winconfig\nvim\after\plugin\barbar.lua"
+
+mklink "C:\Users\%USERNAME%\AppData\Local\nvim\after\plugin\neotree.lua" "C:\Users\%USERNAME%\repos\winconfig\nvim\after\plugin\neotree.lua"
+
 mklink "C:\Users\%USERNAME%\AppData\Local\nvim\after\plugin\lsp.lua" "C:\Users\%USERNAME%\repos\winconfig\nvim\after\plugin\lsp.lua"
 
 mklink "C:\Users\%USERNAME%\AppData\Local\nvim\after\plugin\telescope.lua" "C:\Users\%USERNAME%\repos\winconfig\nvim\after\plugin\telescope.lua"

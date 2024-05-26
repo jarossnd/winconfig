@@ -28,6 +28,13 @@ Set Windows Terminal as the default terminal application
 
 ![image](https://github.com/jarossnd/winconfig/assets/72239230/e7afb651-ec0c-4881-aebb-4151b24a5d17)
 
+Font:
+
+Install the [FiraCode Nerd Font](https://www.nerdfonts.com/font-downloads) and set it as the default font in Windows Terminal. If you do not do this then you will not see icons in Neotree:
+
+![image](https://github.com/jarossnd/winconfig/assets/72239230/87663994-c7ca-4542-84c8-740b70e933f8)
+
+
 Set PowerShell executation policy:
 
 ```PowerShell

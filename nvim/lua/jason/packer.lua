@@ -61,4 +61,9 @@ use {
   }
 }
 
+--- View images in file preview in telescope
+use 'nvim-lua/popup.nvim'
+use 'nvim-lua/plenary.nvim'
+use 'nvim-telescope/telescope-media-files.nvim'
+
 end)
